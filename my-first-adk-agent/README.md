@@ -1,0 +1,1 @@
+For the steps to run this example, refer to the medium article https://medium.com/@thegenaigirl/getting-started-with-googles-agent-development-kit-adk-build-your-first-ai-agent-in-minutes-7f54ee13774d
